@@ -1,0 +1,27 @@
+/* Card.css fayli */
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .card-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .card-description {
+    font-size: 14px;
+    color: #333;
+  }
+  
